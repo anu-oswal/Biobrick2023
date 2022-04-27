@@ -10,7 +10,14 @@ app_ui <- function(request) {
     golem_add_external_resources(),
     # Your application UI logic
     fluidPage(
-      h1("shinyEric")
+      h1("shinyEric"),
+      tabsetPanel(
+        tabPanel(title = "panel1",
+                 "module1"),
+        tabPanel(title = "panel2",
+                 "plotting_module"),
+        mod_plotting_module_ui("plotting_module_1")
+      )
     )
   )
 }
