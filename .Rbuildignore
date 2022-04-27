@@ -10,3 +10,4 @@ $run_dev.*
 ^shinyEric\.Rcheck$
 ^shinyEric.*\.tar\.gz$
 ^shinyEric.*\.tgz$
+^LICENSE\.md$
