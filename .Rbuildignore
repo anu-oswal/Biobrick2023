@@ -4,3 +4,9 @@
 dev_history.R
 ^dev$
 $run_dev.*
+^myshinyapp\.Rcheck$
+^myshinyapp.*\.tar\.gz$
+^myshinyapp.*\.tgz$
+^shinyEric\.Rcheck$
+^shinyEric.*\.tar\.gz$
+^shinyEric.*\.tgz$

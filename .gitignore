@@ -3,3 +3,9 @@
 .Rdata
 .httr-oauth
 .DS_Store
+myshinyapp.Rcheck/
+myshinyapp*.tar.gz
+myshinyapp*.tgz
+shinyEric.Rcheck/
+shinyEric*.tar.gz
+shinyEric*.tgz
