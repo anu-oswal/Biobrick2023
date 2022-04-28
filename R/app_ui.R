@@ -13,7 +13,8 @@ app_ui <- function(request) {
       h1("shinyEric"),
       tabsetPanel(
         tabPanel(title = "panel1",
-                 "module1"),
+                 "dna_to_prot",
+                 mod_dna_to_prot_ui("dna_to_prot_1")),
         tabPanel(title = "panel2",
                  "plotting_module",
                  mod_plotting_module_ui("plotting_module_1")),

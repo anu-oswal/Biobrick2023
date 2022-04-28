@@ -8,4 +8,5 @@
 app_server <- function(input, output, session) {
   # Your application server logic
   mod_plotting_module_server("plotting_module_1")
+  mod_dna_to_prot_server("dna_to_prot_1")
 }
