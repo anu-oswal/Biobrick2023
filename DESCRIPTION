@@ -8,7 +8,7 @@ Imports:
     golem (>= 0.3.2),
     magrittr,
     shiny (>= 1.7.1)
-Author@R:c(person(given = "Eric", family = "Bautista", role = c("aut",
+Author@R: c(person(given = "Eric", family = "Bautista", role = c("aut",
     "cre"), email = "ericbaufa10@gmail.com"))
 Config/testthat/edition: 3
 Encoding: UTF-8
