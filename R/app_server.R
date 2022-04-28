@@ -7,5 +7,4 @@
 #' @noRd
 app_server <- function(input, output, session) {
   # Your application server logic
-  mod_plotting_module_server("plotting_module_1")
 }

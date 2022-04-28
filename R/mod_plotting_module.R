@@ -10,14 +10,7 @@
 mod_plotting_module_ui <- function(id){
   ns <- NS(id)
   tagList(
-    sidebarLayout(
-      sidebarPanel(
-        "peptide_sequence"
-      ),
-      mainPanel(
-        "plot"
-      )
-    )
+
   )
 }
 
