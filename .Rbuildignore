@@ -11,3 +11,5 @@ $run_dev.*
 ^shinyEric.*\.tar\.gz$
 ^shinyEric.*\.tgz$
 ^LICENSE\.md$
+^app\.R$
+^rsconnect$
